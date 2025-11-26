@@ -1,6 +1,6 @@
 const expansions = [
   {
-    expansionName: "Emperor's Will",
+    expansionName: "The Dying Light",
     expansionColor: "peru",
     factionNames: [
       "Adeptus Custodes",
